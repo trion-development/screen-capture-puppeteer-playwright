@@ -1,0 +1,8 @@
+services:
+  playwright:
+    image: mcr.microsoft.com/playwright:v1.41.2-jammy
+    ipc: host
+    volumes:
+      - ./:/app
+    working_dir: /app
+    command: [ "./run.sh" ]

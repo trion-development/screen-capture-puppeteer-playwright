@@ -1,0 +1,9 @@
+services:
+  puppeteer:
+    image: trion/ng-cli-e2e:17.1.1
+    volumes:
+      - ./:/app
+    working_dir: /app
+    environment:
+      - PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome
+    command: [ "./run.sh" ]

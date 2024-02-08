@@ -6,6 +6,8 @@ See the [puppeteer](puppeteer/) and [playwright](playwright/) directories for mo
 
 ## Screen Recordings
 
-![Video](screen-recordings/video.webm)
+![Video](/screen-recordings/video.webm)
 
-![Screenshot](screen-recordings/screenshot.png)
+![Screenshot](/screen-recordings/screenshot.png)
+
+
