@@ -6,6 +6,6 @@ See the [puppeteer](puppeteer/) and [playwright](playwright/) directories for mo
 
 ## Screen Recordings
 
-![Video](screen-recordings/video.webm)
+[video.webm](https://github.com/trion-development/screen-capture-puppeteer-playwright/assets/25386154/c307f09a-3f2d-4770-ad08-97f910d90746)
 
 ![Screenshot](screen-recordings/screenshot.png)
